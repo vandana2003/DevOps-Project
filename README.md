@@ -1,2 +1,3 @@
 # DevOps-Project
-Information about project i have done
+SOFTWARE VERSION CONTROL WITH GIT
+'Information about project'
